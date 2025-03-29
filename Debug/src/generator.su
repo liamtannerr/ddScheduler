@@ -1,0 +1,4 @@
+generator.c:23:6:Gen1_Task	32	static
+generator.c:37:6:Gen2_Task	32	static
+generator.c:51:6:Gen3_Task	32	static
+generator.c:65:6:createDDTask	32	static
